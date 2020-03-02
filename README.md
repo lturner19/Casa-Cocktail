@@ -25,22 +25,22 @@ Casa Cocktail will have users whipping out drinks like a seasoned bartender. Sim
 
 1. **Opening Page**
 
-![image](assests/opening_page.jpg)
+![image](assests/images/opening_page.jpg)
 
 <br>
 
 2. **Beverage Choice Page**
 
-![image](assests/pick_options.jpg)
+![image](assests/images/pick_options.jpg)
 <br>
 
 3. **Drink Menu**
 
-![image](assests/pick_drink.jpg)
+![image](assests/images/pick_drink.jpg)
 
 4. **Recipe Page**
 
-![image](assests/drink_recipe.jpg)
+![image](assests/images/drink_recipe.jpg)
 <br>
 
 ## CONTRIBUTORS
